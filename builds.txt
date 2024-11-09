@@ -1,4 +1,4 @@
-name="mytestbuild"
+name="testbuild"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/4pa78b05kj0lhrvt71pdw/testbuild-1.0.zip?rlkey=oiuirujrjk77ozvirwbyfzvk2&st=5sdbqw4d&dl=1"
 minor="http://"
