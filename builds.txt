@@ -1,6 +1,6 @@
 name="testbuild"
-version="1.0"
-url="https://www.dropbox.com/scl/fi/y870xx0qwtgf99tp1hda7/testbuild-1.0.zip?rlkey=hktjpvmjyiyb3ty2an3z6bxrk&st=z7lms25w&dl=1"
+version="2.0"
+url="https://www.dropbox.com/scl/fi/8dqfo9pj0dic4hh8t9kqb/testbuild2.0.zip?rlkey=q75vuyu6achwglow87wiqal6o&st=omc2kyv6&dl=1"
 minor="http://"
 gui="https://"
 kodi="21.1"
