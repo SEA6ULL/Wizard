@@ -1,0 +1,12 @@
+{
+	"builds": [
+		{
+			"name": "Build 1",
+			"version": "1.0",
+			"url": "https://www.dropbox.com/scl/fi/mjoqaqh1jbgsztkc1m2v0/frut.android.zip?rlkey=kvrwcgwz5dvbiuaul7wzqc739&st=nfnppptn&dl=1",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/icon.png",
+			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/fanart.jpg",
+			"description": "The first build. You need a comma after the curly bracket if this is not the last build."
+		}
+	]
+}
