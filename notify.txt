@@ -1,6 +1,4 @@
-3
-||||
-[COLORghostwhite][B]Welcome to the SEA6ULL Build Wizard.[/B][/COLOR]
+[COLORghostwhite][B]Welcome to the SEA6ULL Wizard.[/B][/COLOR]
 
 All builds require Kodi 20.0 or greater.
 
