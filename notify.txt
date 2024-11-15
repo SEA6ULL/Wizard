@@ -1,6 +1,6 @@
 3
 |||
-[COLORghostwhite][B]Welcome to the SEA6ULL Wizard.[/B][/COLOR]
+[COLORghostwhite][B]Welcome to the SEA6ULL Wizard.[/B]
 
 All builds require Kodi 20.0 or greater.
 
@@ -14,4 +14,4 @@ For Umbrella, after you enter credentials, navigate to Umbrella-settings-shortcu
 
 Builds often requre a force close and restart after initial install. 
 
-Thank you for flying with SEA6ULL!
+Thank you for flying with SEA6ULL![/COLOR]
