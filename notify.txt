@@ -1,8 +1,8 @@
 3
 |||
-[COLORghostwhite][B]Welcome to the SEA6ULL Wizard.[/B][/COLOR]
+[COLORskyblue][B]Welcome to the SEA6ULL Wizard.[/B][/COLOR]
 
-[COLORblack]All builds require Kodi 21.0 or greater.
+[COLORgray]All builds require Kodi 21.0 or greater.
 
 No content is hosted or provided. Trakt and Debrid accounts required. 
 
