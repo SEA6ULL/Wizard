@@ -2,7 +2,7 @@
 |||
 [COLORdeepskyblue][B]Welcome to the SEA6ULL Wizard.[/B][/COLOR]
 
-[COLORwhite]All builds require Kodi 21.0 or greater.
+All builds require Kodi 21.0 or greater.
 
 No content is hosted or provided. Trakt and Debrid accounts required. 
 
@@ -12,4 +12,4 @@ Navigate to the options menu and authorize in each add-on.
 
 For Umbrella, after you enter credentials, navigate to Umbrella-settings-shortcuts, and Force Sync to local database. 
 
-Thank you for flying with SEA6ULL![/COLOR]
+Thank you for flying with SEA6ULL!
