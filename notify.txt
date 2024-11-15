@@ -1,0 +1,14 @@
+
+[B]SEA6ULL Build Wizard[/B]
+
+All builds require Kodi 20.0 or greater.
+
+No content hosted or provided. Trakt and Debrid accounts required.
+
+Widgets will not work properly until you have entered account credentials into the add-ons.
+
+Navigate to the Options menu and enter your credentials.
+
+*For Umbrella, after you have entered credentials, navigate to Settings, Shortcuts and Force Sync with local database.
+
+Thank you for flying with SEA6ULL!
