@@ -9,5 +9,5 @@ icon="https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/sc
 fanart="https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/frutfanart.jpg"
 preview="https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/screenshot-01.jpg"
 adult="no"
-info="https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Info/Frut.txt"
+info="https://"
 description="You NEED to have a personal Trakt account and premium debrid services. Enter credentials into TMDb Helper and Umbrella."
