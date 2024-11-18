@@ -10,8 +10,6 @@ Builds will not function properly until credentials have been authorized.
 
 Navigate to the options menu and authorize in each add-on.
 
-Be sure to visit the Build Information page for specific directions.
-
 Youtube (for trailers) is currently working, but will crash on the initial install.
 Re-open Kodi and follow the configuration wizard.
 
