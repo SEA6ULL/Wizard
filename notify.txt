@@ -4,13 +4,14 @@
 
 All builds require Kodi 21.0 or greater.
 
-No content is hosted or provided. Trakt and Debrid accounts required. 
+No content is hosted or provided. Trakt and premium accounts required. 
 
 Builds will not function properly until credentials have been authorized.
 
-Navigate to the options menu and authorize in each add-on.
+Navigate to the Options menu and authorize in each add-on.
 
-Youtube (for trailers) is currently working, but will crash on the initial install.
-Re-open Kodi and follow the configuration wizard.
+Youtube (for trailers) requires device specific installation, therefore it could not
+be included within the build. Navigate to the Options menu > Add-ons.
+It is located in the Kodi Add-on repository > Video Add-ons.
 
 Thank you for flying with SEA6ULL!
