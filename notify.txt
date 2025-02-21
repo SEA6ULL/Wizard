@@ -8,10 +8,11 @@ No content is hosted or provided. Trakt and premium accounts required.
 
 Builds will not function properly until credentials have been authorized.
 
-Navigate to the Options menu and authorize in each add-on.
+Navigate to the Options menu and authorize Trakt in TMDb Helper.
+Navigate to the Options menu and authorize Trakt and debrid service in Umbrella.
 
 Youtube (for trailers) requires device specific installation, therefore it could not
 be included within the build. Navigate to the Options menu > Add-ons.
-It is located in the Kodi Add-on repository > Video Add-ons.
+It is located in the Umbrella repository > Video Add-ons.
 
 Thank you for flying with SEA6ULL!
