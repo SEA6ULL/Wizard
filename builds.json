@@ -6,7 +6,7 @@
 			"url": "https://archive.org/download/nimbus-pov-1.0/NimbusPOV_1.0.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot_02.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVfanart.jpg",
-			"description": "[COLOR grey]Nimbus[/COLOR][COLOR purple]POV[/COLOR][CR]40mb[CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
+			"description": "[COLOR darkgray]Nimbus[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]41mb[CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
 		},
 		{
 			"name": "Puft",
