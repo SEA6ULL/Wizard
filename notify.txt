@@ -13,13 +13,8 @@ Widgets will not display properly until MDBList API key has been entered.
 Navigate to the Settings menu for POV and authorize debrid provider and 
 MDBList API key.
 
-If build includes TMDB Helper enter your MDBList API key into it's settings.
-
 Youtube (for trailers) requires device specific installation, therefore it is not
 included within builds. The first time you try to play a trailer you will be 
 prompted to install Youtube. It will crash Kodi after it installs. Force close Kodi
 and restart. The next time you try a trailer the setup wizard will help you 
 configure Youtube settings, then you're good to go.
-
-For use of Youtube beyond trailers you will need to enter your personal API keys.
-Google "Youtube API Wiki" for help on that topic.
