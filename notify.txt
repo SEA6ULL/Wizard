@@ -4,15 +4,22 @@
 
 All builds require Kodi 21.0 or greater.
 
-No content is hosted or provided. Trakt and premium accounts required. 
+No content is hosted or provided. Premium debrid account required.
+MDBList API key required. Find yours at mdblist.com/preferences API Access
 
 Builds will not function properly until credentials have been authorized.
+Widgets will not display properly until MDBList API key has been entered.
 
-Navigate to the Options menu and authorize Trakt in TMDb Helper.
-Navigate to the Options menu and authorize Trakt and debrid service in Umbrella.
+Navigate to the Settings menu for POV and authorize debrid provider and 
+MDBList API key.
 
-Youtube (for trailers) requires device specific installation, therefore it could not
-be included within the build. Navigate to the Options menu > Add-ons.
-It is located in the Umbrella repository > Video Add-ons.
+If build includes TMDB Helper enter your MDBList API key into it's settings.
 
-Thank you for flying with SEA6ULL!
+Youtube (for trailers) requires device specific installation, therefore it is not
+included within builds. The first time you try to play a trailer you will be 
+prompted to install Youtube. It will crash Kodi after it installs. Force close Kodi
+and restart. The next time you try a trailer the setup wizard will help you 
+configure Youtube settings, then you're good to go.
+
+For use of Youtube beyond trailers you will need to enter your personal API keys.
+Google "Youtube API Wiki" for help on that topic.
