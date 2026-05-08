@@ -1,6 +1,15 @@
 {
 	"builds": [
 		{
+			"name": "NimbusPOV",
+			"version": "1.0",
+			"url": "https://archive.org/download/nimbus-pov-1.0/NimbusPOV_1.0.zip",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenschot_01.jpg",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenschot_02.jpg",
+			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVfanart.jpg",
+			"description": "[COLOR grey]Nimbus[/COLOR][COLOR purple]POV[/COLOR][CR]40mb[CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
+		}
+		{
 			"name": "Puft",
 			"version": "1.2",
 			"url": "https://archive.org/download/puft-1.2/Puft%201.2.zip",
