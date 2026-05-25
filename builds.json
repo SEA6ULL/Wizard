@@ -1,20 +1,20 @@
 {
 	"builds": [
 		{
+			"name": "AF3POV",
+			"version": "1.0",
+			"url": "https://archive.org/download/af-3-pov-1.0/AF3POV_1.0.zip",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVscreenshot.jpg",
+			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVscreenshot.jpg",
+			"description": "AF3[COLOR orchid]POV[/COLOR][CR][CR]351mb[CR]Minimal build Arctic Fuse 3.[CR]Requires debrid and MDBList"
+		},
+		{
 			"name": "NimbusPOV",
 			"version": "1.0",
 			"url": "https://archive.org/download/nimbus-pov-1.0/NimbusPOV_1.0.zip",
-			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot_02.jpg",
-			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVfanart.jpg",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot.jpg",
+			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot.jpg",
 			"description": "[COLOR darkgray]Nimbus[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]41mb[CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
-		},
-		{
-			"name": "Puft",
-			"version": "1.2",
-			"url": "https://archive.org/download/puft-1.2/Puft%201.2.zip",
-			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/screenshot-01.jpg",
-			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/puftfanart.jpg",
-			"description": "[COLOR blue]P[/COLOR]remium Service[CR][COLOR blue]U[/COLOR]mbrella[CR][COLOR blue]F[/COLOR]use2[CR][COLOR blue]T[/COLOR]rakt[CR][CR]450mb[CR]Trakt and Premium Service Required[CR](Premiumize.me, Real Debrid, All Debrid, etc.)"
 		}
 	]
 }
