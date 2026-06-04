@@ -9,10 +9,10 @@ MDBList API key required. Find yours at mdblist.com/preferences API Access
 
 Builds will not function properly until credentials have been authorized.
 Widgets will not display properly until MDBList API key has been entered.
+You will get error messages until credentials have been entered.
 
-Navigate to the Settings menu for POV and authorize debrid provider and 
-MDBList API key.
+Navigate to the Settings menu for POV and authorize debrid provider and MDBList API key.
 
-You should also add your MDBList API key to TMDB Helper, if installed.
+Navigate to the Settings menu for TMDB Helper and authorize MDBList API key.
 
-Once API key is entered, navigate to the Power Menu and Reload the skin.
+Once credentials are entered, navigate to the Power Menu and Reload the skin.
