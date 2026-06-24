@@ -17,6 +17,14 @@
 			"description": "AF3[COLOR orchid]POV[/COLOR][CR][CR]371mb[CR]Minimal build with Arctic Fuse 3.[CR]Not recommended for streaming sticks![CR]Requires debrid and MDBList"
 		},
 		{
+			"name": "AF3POV Lite",
+			"version": "1.0",
+			"url": "https://archive.org/download/af-3-pov-lite-1.0/AF3POV_Lite_1.0.zip",
+			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVLite.jpg",
+			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVLite.jpg",
+			"description": "AF3[COLOR orchid]POV[/COLOR] [COLOR red]Lite[/COLOR][CR][CR]355mb[CR]Minimal build with Arctic Fuse 3.[CR]Recommended for light devices.[CR]Requires debrid and MDBList"
+		},
+		{
 			"name": "NimbusPOV",
 			"version": "1.2",
 			"url": "https://archive.org/download/nimbus-pov-1.2/NimbusPOV_1.2.zip",
