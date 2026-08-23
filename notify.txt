@@ -11,7 +11,7 @@ Builds will not function properly until credentials have been authorized.
 Widgets will not display properly until MDBList API key has been entered.
 You will get error messages until credentials have been entered.
 
-Navigate to the Settings menu for POV and authorize debrid provider and MDBList API key.
+Navigate to the Settings menu for POV and authorize debrid provider and MDBList.
 
 Navigate to the Settings menu for TMDB Helper and authorize MDBList API key.
 
