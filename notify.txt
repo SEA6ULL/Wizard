@@ -4,11 +4,14 @@
 
 All builds require Kodi 21.0 or greater.
 
-No content is hosted or provided. Premium debrid account required.
+No content is hosted or provided. Debrid account required.
+
 MDBList API key required. Find yours at mdblist.com/preferences API Access
 
 Builds will not function properly until credentials have been authorized.
+
 Widgets will not display properly until MDBList API key has been entered.
+
 You will get error messages until credentials have been entered.
 
 Navigate to the Settings menu for POV and authorize debrid provider and MDBList.
