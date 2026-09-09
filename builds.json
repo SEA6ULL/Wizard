@@ -6,7 +6,7 @@
 			"url": "https://archive.org/download/AVPOV/AVPOV_1.0.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AVPOV.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AVPOV.jpg",
-			"description": "AV[COLOR orchid]POV[/COLOR][CR][CR]408mb[CR]Arctic Vibe, a mod of Arctic Fuse 2.[CR]Requires debrid and MDBList"
+			"description": "AV[COLOR orchid]POV[/COLOR][CR][CR]Arctic Vibe, a mod of Arctic Fuse 2.[CR]Requires debrid and MDBList"
 		},
 		{
 			"name": "BingiePOV",
@@ -14,7 +14,7 @@
 			"url": "https://archive.org/download/bingie-pov-1.0/BingiePOV_1.0.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/BingiePOV.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/BingiePOV.jpg",
-			"description": "[COLOR red]Bingie[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]245mb[CR]Minimal build with Arctic Fuse 3.[CR]Requires debrid and MDBList"
+			"description": "[COLOR red]Bingie[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]Minimal build with Arctic Fuse 3.[CR]Requires debrid and MDBList"
 		},
 		{
 			"name": "AF3POV",
@@ -22,7 +22,7 @@
 			"url": "https://archive.org/download/af-3-pov-1.4/AF3POV_1.4.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POV.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POV.jpg",
-			"description": "AF3[COLOR orchid]POV[/COLOR][CR][CR]375mb[CR]Minimal build with Arctic Fuse 3.[CR]Not recommended for streaming sticks![CR]Requires debrid and MDBList"
+			"description": "AF3[COLOR orchid]POV[/COLOR][CR][CR]Minimal build with Arctic Fuse 3.[CR]Not recommended for streaming sticks![CR]Requires debrid and MDBList"
 		},
 		{
 			"name": "AF3POV Lite",
@@ -30,15 +30,15 @@
 			"url": "https://archive.org/download/af-3-pov-lite-1.0/AF3POV_Lite_1.0.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVLite.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POVLite.jpg",
-			"description": "AF3[COLOR orchid]POV[/COLOR] [COLOR red]Lite[/COLOR][CR][CR]371mb[CR]Minimal build with Arctic Fuse 3.[CR]Recommended for light devices.[CR]Requires debrid and MDBList"
+			"description": "AF3[COLOR orchid]POV[/COLOR] [COLOR red]Lite[/COLOR][CR][CR]Minimal build with Arctic Fuse 3.[CR]Recommended for light devices.[CR]Requires debrid and MDBList"
 		},
 		{
 			"name": "NimbusPOV",
-			"version": "1.2",
-			"url": "https://archive.org/download/nimbus-pov-1.2/NimbusPOV_1.2.zip",
+			"version": "1.3",
+			"url": "https://archive.org/download/nimbus-pov/NimbusPOV_1.3.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/NimbusPOVscreenshot.jpg",
-			"description": "[COLOR darkgray]Nimbus[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]27mb[CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
+			"description": "[COLOR darkgray]Nimbus[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]Minimal build for light devices.[CR]Requires debrid and MDBList"
 		}
 	]
 }
