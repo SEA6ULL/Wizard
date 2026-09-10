@@ -18,8 +18,8 @@
 		},
 		{
 			"name": "AF3POV",
-			"version": "1.5",
-			"url": "https://archive.org/download/af3pov/AF3POV_1.5.zip",
+			"version": "1.6",
+			"url": "https://archive.org/download/af3pov/AF3POV_1.6.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POV.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/AF3POV.jpg",
 			"description": "AF3[COLOR orchid]POV[/COLOR][CR][CR]Minimal build with Arctic Fuse 3.[CR]Requires debrid and MDBList"
