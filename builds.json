@@ -10,8 +10,8 @@
 		},
 		{
 			"name": "BingiePOV",
-			"version": "1.0",
-			"url": "https://archive.org/download/bingie-pov-1.0/BingiePOV_1.0.zip",
+			"version": "1.1",
+			"url": "https://archive.org/download/bingie-pov/BingiePOV_1.1.zip",
 			"icon": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/BingiePOV.jpg",
 			"fanart": "https://raw.githubusercontent.com/SEA6ULL/Wizard/master/Build%20Artwork/BingiePOV.jpg",
 			"description": "[COLOR red]Bingie[/COLOR][COLOR orchid]POV[/COLOR][CR][CR]Minimal build with Bingie.[CR]Requires debrid and MDBList"
